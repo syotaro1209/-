@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="ja">
+ <head>
+ <meta charset="utf-8">
+ <title>翔太郎</title>
+ <meta name="description" content="サイトキャプションを入力">
+ <meta name="keywords" content="サイトキーワードを,で区切って入力">
+ <link rel="stylesheet" href="sample.css">
+ <!--[if lt IE 9]>
+ <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+ <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+ <![endif]-->
+ <script src="sample.js"></script>
+ </head>
+
+ <body>
+ <!----- ヘッダー ----->
+ <header>いらっしゃ～い</header>
+ <nav>　　　　(＾ω＾)おっ　こんにちわ</nav>
+ <!----- ヘッダー END ----->
+
+ <!----- メインコンテンツ ----->
+ <article>
+ <h1>翔太郎のサイト</h1>
+ <section>
+ <h2>
+   片手間で制作したのでまあ初めてはこんなもんですかね</h2>
+ <p>コンテンツの内容</p>
+ </section>
+ </article>
+ <!----- メインコンテンツ END ----->
+
+ <!----- フッター ----->
+ <footer>
+  <a href="https://www.instagram.com/digital_csic_photo/">僕のインスタグラム（写真アカ）みてってね～
+ </footer>
+ <!----- フッター END ----->
+ </body>
+</html>
